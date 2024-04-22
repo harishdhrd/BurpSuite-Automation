@@ -1,0 +1,59 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "r1&Sequence_1",
+        "r2&Sequence_1",
+        "rf&Sequence_1",
+        "cg1&Sequence_1",
+        "name&Sequence_1",
+        "data&Sequence_1",
+        "pi&Sequence_1",
+        "d1&Sequence_1",
+        "pid&Sequence_1",
+        "o&Sequence_21",
+        "ele&Sequence_22",
+        "ele1&Sequence_22",
+        "i&Sequence_37",
+        "w&Sequence_38",
+        "b&Sequence_38",
+        "c&Sequence_38",
+        "d&Sequence_38",
+        "e&Sequence_38",
+        "f&Sequence_38",
+        "g&Sequence_38",
+        "h&Sequence_38",
+        "i&Sequence_38",
+        "j&Sequence_38",
+        "k&Sequence_38",
+        "l&Sequence_38",
+        "i&Sequence_23",
+        "w&Sequence_33",
+        "b&Sequence_33",
+        "c&Sequence_33",
+        "d&Sequence_33",
+        "e&Sequence_33",
+        "f&Sequence_33",
+        "g&Sequence_33",
+        "h&Sequence_33",
+        "i&Sequence_33",
+        "j&Sequence_33",
+        "k&Sequence_33",
+        "l&Sequence_33"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    }
+  ]
+}
